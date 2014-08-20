@@ -7,6 +7,10 @@ $greeting = 'Hello, World.';
 
 $this->assertFalse($greeting === 'ello, World.');
 
+    $greeting = 'Hello, World.';
+
+    $this->assertTrue($greeting === 'Hello, World.');
+
 
 }
 
