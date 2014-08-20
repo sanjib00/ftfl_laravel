@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="ftfl" uploadOnCheckin="c1958f6a-aedf-4c09-b896-1e7cbd471dcc">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ftfl">
     <serverData>
       <paths name="ftfl">
         <serverdata>
@@ -10,7 +10,6 @@
         </serverdata>
       </paths>
     </serverData>
-    <option name="myUploadOnCheckinName" value="ftfl" />
     <option name="myAutoUpload" value="ALWAYS" />
   </component>
 </project>
